@@ -1,4 +1,4 @@
-# Section 6 - Udemy JAvaScript and TypeScript
+# Section 8 - Udemy JavaScript and TypeScript
 ---
 ## Promises, Ajax, Fetch, e Async/Await
 - Promises
