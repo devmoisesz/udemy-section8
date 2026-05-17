@@ -4,3 +4,7 @@
 - Promises
 - PromiseAll
 - PromiseResolve, Reject
+- Aysnc, Await
+- Ajax XmlHttp
+- Fetch
+- Axios
